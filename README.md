@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently building: [MultiAgentBasePro](https://github.com/yourprojectlink) – automation powered by AI agents.
+- 🔭 I’m currently building: [Naya](https://github.com/) – automation powered by AI agents.
 - 🛠️ Founder at **Artebello** – a digital studio building high-quality apps, websites, and visual experiences.
 - 📱 Creator of **ScoreStack** (3M+ downloads), and many more apps on Android & iOS.
 - 💬 I specialize in mobile development, UX/UI design, and launching startup MVPs.
@@ -42,8 +42,8 @@
 ## 🌍 Let’s Connect
 
 - 🔗 [LinkedIn](https://linkedin.com/in/paulwaweru)
-- 🌐 [Artebello Studio](https://artebello.co)
-- ✉️ Reach me: paul[at]artebello.co
+- 🌐 [Artebello Studio](https://art.oriomnis.com)
+- ✉️ Reach me: wawerup.ndirangu@gmail.com
 
 ---
 
